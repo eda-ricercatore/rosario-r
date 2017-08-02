@@ -1,6 +1,28 @@
-# rosario-r
+#	rosario-r
 
 A repository for my R scripts that explore concepts and techniques in statistical data analysis, machine learning, data analytics, and related topics.
+
+
+
+
+#	Resources for Learning *R*
+
+##	List of books on *R*
+
+
+
+
+
+
+##	Applications of *R*-based Statistical Analysis
+
+
+
+
+
+
+
+
 
 
 
