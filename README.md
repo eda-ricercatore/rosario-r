@@ -8,6 +8,26 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+
+
+
+
+
+
+
+#	To-Do List
+
+Try the following concepts and techniques in *R* 
+	cite{WikipediaContributors2017u}:
++ Anonymous function.
+
+
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
