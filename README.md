@@ -14,12 +14,30 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Applications of *R*-based Statistical Analysis
 
 
+###	Bayesian Computation
 
-
-
+[Albert2007]
+	Albert, J. *Bayesian Computation with R.* Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
 
 
 
