@@ -30,8 +30,22 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Green2004]
 	Green, C. G. *The Stat 390 R Primer*. Available online from *University of Washington: UW Students Web Server: Christopher G. Green's web page* as *The Stat 390 R Primer* at: [http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html](http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html); November 20, 2016 was the last accessed date. University of Washington, Seattle, WA, September 21, 2004.
 
+[Horton2015]
+	Horton, N. J. and Kleinman, K. *Using R and RStudio for Data Management, Statistical Analysis, and Graphics*, second ed. CRC Press, Boca Raton, FL, 2015.
+
 [Horton2011]
 	Horton, N. J. and Kleinman, K, *Using R for Data Management, Statistical Analysis, and Graphics*. CRC Press, Boca Raton, FL, 2011.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -100,6 +114,12 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Hahne2008]
 	Hahne, F., Huber, W., Gentleman, R., and Falcon, S. *Bioconductor Case Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+###	Business
+
+[Jank2011]
+	Jank, W. *Business Analytics for Managers*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
 
 
