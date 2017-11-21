@@ -9,6 +9,11 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 ##	List of books on *R*
 
+[Crawley2015]
+	Crawley, M. J. *Statistics: An Introduction Using R*, second ed. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2015.
+
+[Crawley2005a]
+	Crawley, M. J. Statistics: An Introduction Using R. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2005.
 
 
 
@@ -18,7 +23,9 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Chang2013]
 	Chang, W. *R Graphics Cookbook: Practical Recipes for Visualizing Data*. O’Reilly Media, Sebastopol, CA, 2013.
 
-	
+[Cook2007]
+	Cook, D., and Swayne, D. F. *Interactive and Dynamic Graphics for Data Analysis: With R and GGobi*. Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
+
 
 
 
@@ -31,11 +38,19 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Time Series
+
+[Cowpertwait2009]
+	Cowpertwait, P. S. P., and Metcalfe, A. V. *Introductory Time Series with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+[Cryer2008]
+	Cryer, J. D., and Chan, K. *Time Series Analysis: With Applications in R*, second ed. Springer Texts in Statistics. Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
+###	Hybrid Software
 
-
-
+[Eddelbuettel2013]
+	Eddelbuettel, D. *Seamless R and C++ Integration with Rcpp*, vol. 64 of Use R! Springer Science+Business Media, New York, NY, 2013.
 
 
 
@@ -75,8 +90,10 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Geometry
 
-
+[Claude2008]
+	Claude, J. *Morphometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 
