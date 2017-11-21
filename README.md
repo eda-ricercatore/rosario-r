@@ -13,10 +13,19 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Computer Graphics
+
+[Chang2013]
+	Chang, W. *R Graphics Cookbook: Practical Recipes for Visualizing Data*. O’Reilly Media, Sebastopol, CA, 2013.
+
+	
 
 
 
+###	Numerical Computation
 
+[Bloomfield2014]
+	Bloomfield, V. A. *Using R for Numerical Analysis in Science and Engineering*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
 
 
 
@@ -37,8 +46,29 @@ A repository for my R scripts that explore concepts and techniques in statistica
 ###	Bayesian Computation
 
 [Albert2007]
-	Albert, J. *Bayesian Computation with R.* Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
+	Albert, J. *Bayesian Computation with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
 
+
+
+###	Data Mining
+
+[Cichosz2015-1,Cichosz2015-2,Cichosz2015]
+	Cichosz, P. *Data Mining Algorithms: Explained Using R*. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2015.
+
+
+
+
+###	Ecology
+
+[Borcard2011]
+	Borcard, D., Gillet, F., and Legendre, P. *Numerical Ecology with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
+
+
+
+###	Spatial Data Analysis
+
+[Bivand2008]
+	Bivand, R. S., Pebesma, E. J., and G{\'{o}}mez-Rubio, V. *Applied Spatial Data Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 
