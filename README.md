@@ -15,6 +15,23 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Crawley2005a]
 	Crawley, M. J. Statistics: An Introduction Using R. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2005.
 
+[Everitt2010]
+	Everitt, B. S., and Hothorn, T. A Handbook of Statistical Analyses Using R, second ed. Chapman & Hall/CRC, Boca Raton, FL, 2010.
+
+
+[Everitt2006]
+	Everitt, B. S., and Hothorn, T. A *Handbook of Statistical Analyses Using R*. Chapman & Hall/CRC, Boca Raton, FL, 2006.
+
+
+
+
+
+
+
+###	Multivariate Analysis
+
+[Everitt2011]
+	[1] Everitt, B., and Hothorn, T. *An Introduction to Applied Multivariate Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
 
 
@@ -52,6 +69,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Eddelbuettel2013]
 	Eddelbuettel, D. *Seamless R and C++ Integration with Rcpp*, vol. 64 of Use R! Springer Science+Business Media, New York, NY, 2013.
 
+[Eubank2010]
+	Eubank, R. L., and Kupresanin, A. M. *Statistical computing in C++ and R*. Tech. Rep. LLNL- BOOK-427941, Lawrence Livermore National Laboratory, Livermore, CA, April 14 2010.
 
 
 
