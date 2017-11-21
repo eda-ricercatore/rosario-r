@@ -18,9 +18,22 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Everitt2010]
 	Everitt, B. S., and Hothorn, T. *A Handbook of Statistical Analyses Using R*, second ed. Chapman & Hall/CRC, Boca Raton, FL, 2010.
 
-
 [Everitt2006]
 	Everitt, B. S., and Hothorn, T. A *Handbook of Statistical Analyses Using R*. Chapman & Hall/CRC, Boca Raton, FL, 2006.
+
+[Gandrud2015]
+	Gandrud, C. *Reproducible Research with R and RStudio*, second ed. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2015.
+
+[Gardener2012]
+	Gardener, M. *Beginning R: The Statistical Programming Language*. Wrox Programmer to Programmer. John Wiley & Sons, Indianapolis, IN, 2012.
+
+[Green2004]
+	Green, C. G. *The Stat 390 R Primer*. Available online from *University of Washington: UW Students Web Server: Christopher G. Green's web page* as *The Stat 390 R Primer* at: [http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html](http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html); November 20, 2016 was the last accessed date. University of Washington, Seattle, WA, September 21, 2004.
+
+[Horton2011]
+	Horton, N. J. and Kleinman, K, *Using R for Data Management, Statistical Analysis, and Graphics*. CRC Press, Boca Raton, FL, 2011.
+
+
 
 
 
@@ -83,6 +96,12 @@ A repository for my R scripts that explore concepts and techniques in statistica
 	Albert, J. *Bayesian Computation with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
 
 
+###	Biology
+
+[Hahne2008]
+	Hahne, F., Huber, W., Gentleman, R., and Falcon, S. *Bioconductor Case Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
 
 ###	Data Mining
 
@@ -99,11 +118,10 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
-###	Spatial Data Analysis
+###	Genetics
 
-[Bivand2008]
-	Bivand, R. S., Pebesma, E. J., and G{\'{o}}mez-Rubio, V. *Applied Spatial Data Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
-
+[Foulkes2009]
+	Foulkes, A. S. *Applied Statistical Genetics with R: For Population-based Association Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
 
 
 
@@ -113,6 +131,18 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Claude2008]
 	Claude, J. *Morphometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
+
+###	Spatial Data Analysis
+
+[Bivand2008]
+	Bivand, R. S., Pebesma, E. J., and G{\'{o}}mez-Rubio, V. *Applied Spatial Data Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
+
 
 
 
