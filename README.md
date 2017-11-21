@@ -13,7 +13,7 @@ A repository for my R scripts that explore concepts and techniques in statistica
 	Crawley, M. J. *Statistics: An Introduction Using R*, second ed. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2015.
 
 [Crawley2005a]
-	Crawley, M. J. Statistics: An Introduction Using R. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2005.
+	Crawley, M. J. *Statistics: An Introduction Using R*. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2005.
 
 [Everitt2010]
 	Everitt, B. S., and Hothorn, T. *A Handbook of Statistical Analyses Using R*, second ed. Chapman & Hall/CRC, Boca Raton, FL, 2010.
