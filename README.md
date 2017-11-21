@@ -31,7 +31,7 @@ A repository for my R scripts that explore concepts and techniques in statistica
 ###	Multivariate Analysis
 
 [Everitt2011]
-	[1] Everitt, B., and Hothorn, T. *An Introduction to Applied Multivariate Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
+	Everitt, B., and Hothorn, T. *An Introduction to Applied Multivariate Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
 
 
