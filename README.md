@@ -39,13 +39,17 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Ramsay2009]
 	Ramsay, J. O., Hooker, G., and Graves, S. *Functional Data Analysis with R and MATLAB*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
 
+[Spector2008]
+	Spector, P. *Data Manipulation with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
+[Stowell2014]
+	Stowell, S. *Using R for Statistics*. Apress Media, LLC, New York, NY, 2014.
 
+[Xie2014]
+	Xie, Y. *Dynamic Documents with R and knitr*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
 
-
-
-
-
+[Zuur2009]
+	Zuur, A. F., Ieno, E. N., and Meesters, E. H. W. G. *A Beginner’s Guide to R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
 
 
 
@@ -130,7 +134,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Nason2008]
 	Nason, G. P. *Wavelet Methods in Statistics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
-
+[Suess2010]
+	Suess, E. A., and Trumbo, B. E. *Introduction to Probability Simulation and Gibbs Sampling with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2010.
 
 
 
@@ -165,6 +170,12 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Chemistry
+
+[Wehrens2011]
+	Wehrens, R. *Chemometrics with R: Multivariate Data Analysis in the Natural Sciences and Life Sciences*. Use R! Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2011.
+
+
 
 
 ###	Data Mining
@@ -172,25 +183,16 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Cichosz2015-1,Cichosz2015-2,Cichosz2015]
 	Cichosz, P. *Data Mining Algorithms: Explained Using R*. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2015.
 
+[Williams2011a]
+	Williams, G. *Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
+	
 
 
-###	Economics
+###	Data Science + Data Analytics + Big Data Analytics
 
-[Kleiber2008]
-	Kleiber, C., and Zeileis, A. *Applied Econometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+[Toomey2014]
+	Toomey, D. *R for Data Science: Learn and explore the fundamentals of data science with R*. Community Experience Distilled. Packt Publishing, Birmingham, West Midlands, England, U.K., 2014.
 
-
-
-
-
-
-
-
-
-### Science + Computational Science + Scientific Computing
-
-[Jones2009]
-	Jones, O., Maillardet, R., and Robinson, A. *Introduction to Scientific Programming and Simulation Using R*. Chapman & Hall/CRC The R Series. Chapman & Hall/CRC, Boca Raton, FL, 2009.
 
 
 
@@ -204,12 +206,39 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Robinson2011b]
 	Robinson, A. P., and Hamann, J. D. *Forest Analytics with R: An Introduction*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
+[Stevens2009]
+	Stevens, M. H. H. *A Primer of Ecology with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+
+
+###	Economics
+
+[Kleiber2008]
+	Kleiber, C., and Zeileis, A. *Applied Econometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
 
 
 ###	Genetics
 
 [Foulkes2009]
 	Foulkes, A. S. *Applied Statistical Genetics with R: For Population-based Association Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+
+
+
+
+
+
+
+###	Geometry
+
+[Claude2008]
+	Claude, J. *Morphometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
 
 
 ###	Public Health + Health Care
@@ -224,20 +253,21 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Reproducible Research
+
+[Stodden2014]
+	Stodden, V., Leisch, F., and Peng, R. D. *Implementing Reproducible Research*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
 
 
 
 
 
+### Science + Computational Science + Scientific Computing
+
+[Jones2009]
+	Jones, O., Maillardet, R., and Robinson, A. *Introduction to Scientific Programming and Simulation Using R*. Chapman & Hall/CRC The R Series. Chapman & Hall/CRC, Boca Raton, FL, 2009.
 
 
-
-
-
-###	Geometry
-
-[Claude2008]
-	Claude, J. *Morphometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 
