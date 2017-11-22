@@ -36,6 +36,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Horton2011]
 	Horton, N. J. and Kleinman, K, *Using R for Data Management, Statistical Analysis, and Graphics*. CRC Press, Boca Raton, FL, 2011.
 
+[Ramsay2009]
+	Ramsay, J. O., Hooker, G., and Graves, S. *Functional Data Analysis with R and MATLAB*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
 
 
 
@@ -49,6 +51,12 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+
+
+###	Regression Analysis
+
+[Ritz2008]
+	Ritz, C., and Streibig, J. C. *Nonlinear Regression with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 
@@ -60,6 +68,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Everitt2011]
 	Everitt, B., and Hothorn, T. *An Introduction to Applied Multivariate Analysis with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
+[Sarkar2008]
+	Sarkar, D. *Lattice: Multivariate Data Visualization with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 ###	Computer Graphics
@@ -70,6 +80,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Cook2007]
 	Cook, D., and Swayne, D. F. *Interactive and Dynamic Graphics for Data Analysis: With R and GGobi*. Use R! Springer Science+Business Media, LCC, New York, NY, 2007.
 
+[Sarkar2008]
+	Sarkar, D. *Lattice: Multivariate Data Visualization with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
 
 
@@ -79,6 +91,11 @@ A repository for my R scripts that explore concepts and techniques in statistica
 	Bloomfield, V. A. *Using R for Numerical Analysis in Science and Engineering*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
 
 
+
+###	Monte Carlo Methods
+
+[Robert2010]
+	Robert, C. P., and Casella, G. *Introducing Monte Carlo Methods with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2010.
 
 
 
@@ -90,6 +107,10 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Cryer2008]
 	Cryer, J. D., and Chan, K. *Time Series Analysis: With Applications in R*, second ed. Springer Texts in Statistics. Springer Science+Business Media, LCC, New York, NY, 2008.
 
+[Pfaff2008]
+	Pfaff, B. *Analysis of Integrated and Cointegrated Time Series with R*, second ed. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
 
 ###	Hybrid Software
 
@@ -98,6 +119,18 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Eubank2010]
 	Eubank, R. L., and Kupresanin, A. M. *Statistical computing in C++ and R*. Tech. Rep. LLNL- BOOK-427941, Lawrence Livermore National Laboratory, Livermore, CA, April 14 2010.
+
+
+###	Advanced Statistics
+
+[Petris2009]
+	Petris, G., Petrone, S., and Campagnoli, P. *Dynamic Linear Models with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+
+[Nason2008]
+	Nason, G. P. *Wavelet Methods in Statistics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
 
 
 
@@ -115,11 +148,22 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Hahne2008]
 	Hahne, F., Huber, W., Gentleman, R., and Falcon, S. *Bioconductor Case Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
+[Paradis2006]
+	Paradis, E. *Analysis of Phylogenetics and Evolution with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2006.
+
+
+
+
+
+
 
 ###	Business
 
 [Jank2011]
 	Jank, W. *Business Analytics for Managers*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
+
+
+
 
 
 
@@ -130,11 +174,35 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 
+###	Economics
 
-###	Ecology
+[Kleiber2008]
+	Kleiber, C., and Zeileis, A. *Applied Econometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
+
+
+
+
+
+
+### Science + Computational Science + Scientific Computing
+
+[Jones2009]
+	Jones, O., Maillardet, R., and Robinson, A. *Introduction to Scientific Programming and Simulation Using R*. Chapman & Hall/CRC The R Series. Chapman & Hall/CRC, Boca Raton, FL, 2009.
+
+
+
+
+
+###	Ecology and Forestry
 
 [Borcard2011]
 	Borcard, D., Gillet, F., and Legendre, P. *Numerical Ecology with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
+
+[Robinson2011b]
+	Robinson, A. P., and Hamann, J. D. *Forest Analytics with R: An Introduction*. Use R! Springer Science+Business Media, LCC, New York, NY, 2011.
 
 
 
@@ -142,6 +210,25 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Foulkes2009]
 	Foulkes, A. S. *Applied Statistical Genetics with R: For Population-based Association Studies*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+
+###	Public Health + Health Care
+
+[Peng2008]
+	Peng, R. D., and Dominici, F. *Statistical Methods for Environmental Epidemiology with R: A Case Study in Air Pollution and Health*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
