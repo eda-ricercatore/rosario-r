@@ -15,6 +15,9 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Crawley2005a]
 	Crawley, M. J. *Statistics: An Introduction Using R*. John Wiley & Sons, Chichester, West Sussex, England, U.K., 2005.
 
+[deMicheaux2013]
+	de Micheaux, P. L., Drouilhet, R., and Liquet, B. *The R Software: Fundamentals of Programming and Statistical Analysis*, vol. 40 of Statistics and Computing. Springer Science+Business Media New York, New York, NY, 2013.
+
 [Everitt2010]
 	Everitt, B. S., and Hothorn, T. *A Handbook of Statistical Analyses Using R*, second ed. Chapman & Hall/CRC, Boca Raton, FL, 2010.
 
@@ -33,8 +36,15 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Horton2015]
 	Horton, N. J. and Kleinman, K. *Using R and RStudio for Data Management, Statistical Analysis, and Graphics*, second ed. CRC Press, Boca Raton, FL, 2015.
 
+[Hothorn2014]
+	Hothorn, T., and Everitt, B. S. *A Handbook of Statistical Analyses Using R*, third ed. CRC Press, Boca Raton, FL, 2014.
+
+
 [Horton2011]
 	Horton, N. J. and Kleinman, K, *Using R for Data Management, Statistical Analysis, and Graphics*. CRC Press, Boca Raton, FL, 2011.
+
+[Paarsch2016]
+	Paarsch, H. J., and Golyaev, K. *A Gentle Introduction to Effective Computing in Quantitative Research: What Every Research Assistant Should Know*. The MIT Press, London, U.K., 2016.
 
 [Ramsay2009]
 	Ramsay, J. O., Hooker, G., and Graves, S. *Functional Data Analysis with R and MATLAB*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
@@ -44,6 +54,13 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Stowell2014]
 	Stowell, S. *Using R for Statistics*. Apress Media, LLC, New York, NY, 2014.
+
+[Teetor2011a]
+	Teetor, P. *25 Recipes for Getting Started with R: Excerpts from the R Cookbook*. O’Reilly Media, Sebastopol, CA, 2011.
+
+[Wickham2014]
+	Wickham, H. *Advanced R*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
+
 
 [Xie2014]
 	Xie, Y. *Dynamic Documents with R and knitr*. Chapman & Hall/CRC The R Series. CRC Press, Boca Raton, FL, 2014.
@@ -62,6 +79,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Ritz2008]
 	Ritz, C., and Streibig, J. C. *Nonlinear Regression with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
 
+[Sheather2009]
+	Sheather, S. J. *A Modern Approach to Regression with R*. Springer Texts in Statistics. Springer Science+Business Media, LCC, New York, NY, 2009.
 
 
 
@@ -193,6 +212,8 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Toomey2014]
 	Toomey, D. *R for Data Science: Learn and explore the fundamentals of data science with R*. Community Experience Distilled. Packt Publishing, Birmingham, West Midlands, England, U.K., 2014.
 
+[Luke2015]
+	Luke, D. A. *A User’s Guide to Network Analysis in R*. Use R! Springer International Publishing Switzerland, Cham, Switzerland, 2015.
 
 
 
@@ -213,8 +234,15 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 ###	Economics
 
+[Dayal2015]
+	Dayal, V. *An Introduction to R for Quantitative Economics: Graphing, Simulating and Computing*. SpringerBriefs in Economics. Springer (India) Pvt. Ltd., New Delhi, India, 2015.
+
+
 [Kleiber2008]
 	Kleiber, C., and Zeileis, A. *Applied Econometrics with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
+
+
+
 
 
 
