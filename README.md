@@ -33,6 +33,12 @@ A repository for my R scripts that explore concepts and techniques in statistica
 [Green2004]
 	Green, C. G. *The Stat 390 R Primer*. Available online from *University of Washington: UW Students Web Server: Christopher G. Green's web page* as *The Stat 390 R Primer* at: [http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html](http://students.washington.edu/cggreen/uwstat/rprimer/rprimer.html); November 20, 2016 was the last accessed date. University of Washington, Seattle, WA, September 21, 2004.
 
+
+[HayJahans2012]
+	Hay-Jahans, C. *An R Companion to Linear Statistical Models*. CRC Press, Boca Raton, FL, 2012.
+
+
+
 [Horton2015]
 	Horton, N. J. and Kleinman, K. *Using R and RStudio for Data Management, Statistical Analysis, and Graphics*, second ed. CRC Press, Boca Raton, FL, 2015.
 
@@ -48,6 +54,10 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 [Ramsay2009]
 	Ramsay, J. O., Hooker, G., and Graves, S. *Functional Data Analysis with R and MATLAB*. Use R! Springer Science+Business Media, LCC, New York, NY, 2009.
+
+[RCoreTeam2013a]
+	Venables, W. N., Smith, D. M., and R Core Team. *An Introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics*. Vienna University of Economics and Business, Vienna, Austria, 2013.
+
 
 [Spector2008]
 	Spector, P. *Data Manipulation with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
@@ -75,6 +85,13 @@ A repository for my R scripts that explore concepts and techniques in statistica
 
 
 ###	Regression Analysis
+
+[Cook1994]
+	Cook, R. D., and Weisberg, S. *An Introduction to Regression Graphics*. Wiley Series in Probability and Mathematical Statistics. John Wiley & Sons, New York, NY, 1994.
+
+[Fox2011]
+	Fox, J., and Weisberg, S. *An R Companion to Applied Regression*, second ed. SAGE Publications, Thousand Oaks, CA, 2011.
+
 
 [Ritz2008]
 	Ritz, C., and Streibig, J. C. *Nonlinear Regression with R*. Use R! Springer Science+Business Media, LCC, New York, NY, 2008.
