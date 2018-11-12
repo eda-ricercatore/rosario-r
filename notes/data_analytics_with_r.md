@@ -26,6 +26,16 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 ##	Books to Reference
 
++ https://link.springer.com/book/10.1007/978-3-319-45599-0
+Data Wrangling with R
+Bradley C. Boehmke, Ph.D. in Use R! (2016)
++ https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469
++ https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/
++ https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516/
++ https://www.amazon.com/dp/1786460114/
++ https://www.amazon.com/dp/1788398319/
+
+
 [Books on R](https://www.r-project.org/doc/bib/R-books.html):
 + [156] John M. Chambers. Programming with Data. Springer, New York, 1998.
 + [157] [John M. Chambers and Trevor J. Hastie. Statistical Models in S. Chapman & Hall, London, 1992.](https://www.crcpress.com/Statistical-Models-in-S/Chambers-Hastie/p/book/9780412830402)
@@ -55,9 +65,9 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + [68] Hrishikesh D. Vinod, editor. Advances in Social Science Research Using R. Lecture Notes in Statistics. Springer, 2010. http://link.springer.com/book/10.1007%2F978-1-4419-1764-5
 + [69] Victor Bloomfield. Computer Simulation and Data Analysis in Molecular Biology and Biophysics: An Introduction Using R. Springer, 2009. [Book](http://link.springer.com/book/10.1007%2F978-1-4419-0083-8)
 + [80] [Kai Velten. Mathematical Modeling and Simulation: Introduction for Scientists and Engineers. Wiley-VCH, 2009.](http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527407588.html)
-+ [81] [2nd edition](http://link.springer.com/book/10.1007%2F978-0-387-92298-0) 
++ [81] [2nd edition](http://link.springer.com/book/10.1007%2F978-0-387-92298-0)
 + [84] [Günther Sawitzki. Computational Statistics. Chapman & Hall/CRC Press, Boca Raton, FL, 2009.](https://www.crcpress.com/Computational-Statistics-An-Introduction-to-R/Sawitzki/p/book/9781420086782)
-+ [88] [Ewout W. Steyerberg. Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating. SBH/Statistics for Biology and Health. Springer, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-77244-8) 
++ [88] [Ewout W. Steyerberg. Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating. SBH/Statistics for Biology and Health. Springer, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-77244-8)
 + [93] [Alain Zuur, Elena N. Ieno, Neil Walker, Anatoly A. Saveiliev, and Graham M. Smith. Mixed Effects Models and Extensions in Ecology with R. Springer, New York, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-87458-6)
 + [95] [Stefano M. Iacus. Simulation and Inference for Stochastic Differential Equations: With R Examples. Springer, New York, 2008.](http://link.springer.com/book/10.1007%2F978-0-387-75839-8)
 + [97] [Deepayan Sarkar. Lattice: Multivariate Data Visualization with R. Springer, New York, 2008.](http://link.springer.com/book/10.1007%2F978-0-387-75969-2)
@@ -109,10 +119,10 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 zz books
 + "Data Science at the Command Line" \cite{Janssens2015}
 + "Getting Started with Data Science" \cite{Haider2015}
- 
-http://www.wzchen.com/data-science-books 
- 
- 
+
+http://www.wzchen.com/data-science-books
+
+
 
 
 
@@ -144,4 +154,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-
